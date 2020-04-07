@@ -49,6 +49,8 @@ browser["password"] = "YOUR_PASSWORD"
 
 <img alt="Aigner" src="https://i.imgur.com/aYy5d9O.png" target="_blank" />
 
+- please replace URL_THAT_YOU_WANT_ACCESS with the url of the page you want to retrieve data from. You can use the BeautifulSoup method for Web Data Scraping. Because MechanicalSoup = BeautifulSoup + Request.
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
