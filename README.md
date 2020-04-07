@@ -25,7 +25,7 @@ pip install MechanicalSoup
 ## Usage
 
 ```python
-python Main.py
+python index.py
 ```
 
 ### URL_FORM_LOGIN
